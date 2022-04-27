@@ -14,7 +14,6 @@ Para la implementación se realizarón los siguientes pasos, guiado por la neces
   Se crean pruebas e implemenatición de método que permita la lectura de los estudiantes.
 * Crear el servicio de students
   Se crean las pruebas e implementaciones para los siguientes métodos
-  * **getStudents** - Obtiene la lista completa de los estudiantes
   * **getStudentsWithCertification** - Obtiene el listado de los estudiantes que tiene certificación
   * **getStudentsWithCreditsMoreThan** - Obtiene el listado con los estudiantes que tienen créditos mayores a un valor especificado
 * Crear el controlador de students
