@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "server": "node app.js",
+    "linter": "eslint .",
+    "linter-fix": "eslint . --fix"
   },
   "keywords": [],
   "author": "",
